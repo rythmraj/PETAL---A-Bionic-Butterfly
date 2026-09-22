@@ -72,11 +72,17 @@ This produces relatively smooth acceleration and deceleration throughout the win
 Hardware
 
 Component| Quantity
+
 Arduino pro micro | 1
+
 Micro servos (PTK 7465MG) | 2
+
 FlySky receiver (FS - A8S) | 1
+
 Flysky transmitter (flysky fsi6) | 1
+
 2S battery (lipo, 180 or 220 or even 350 mAh, but should be lightweight, under 11-12g) (25c or 30c or higher) | 1
+
 Butterfly mechanical structure| 1
 
 See ""BOM.csv"" (BOM.csv) for the complete bill of materials, links, and total cost.
