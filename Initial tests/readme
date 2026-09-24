@@ -1,1 +1,18 @@
-dtgng
+# Initial Testing
+
+IF YOU ARE USING THIS REPOSITORY TO BUILD YOUR OWN BIONIC BUTTERFLY, YOU DON'T NEED TO USE THIS FOLDER, ITS ONLY HERE TO DOCUMENT MY PROCESS.
+
+This folder contains early experiments performed before the final firmware.
+
+These tests were used to verify:
+
+- Servo movement
+- Servo direction
+- Servo limits
+- Arduino output
+- Receiver input
+- Initial wing-motion concepts
+
+These files are development experiments and are not necessarily the final firmware.
+
+The final implementation is located in `Firmware/`.
