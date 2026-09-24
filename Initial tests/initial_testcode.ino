@@ -1,4 +1,11 @@
+// This file contains the test code that was used for arduino uno and sg90 servos to measure their torque and latency, motive was to check if they can be used as
+// the main servos for the wings, check the code at initial_tewstcoe.ino.
+// Tho, this is just a test code and not the main code for the butterfly.
+// if you are building your own petal, you dont need to use this, these tests are not important, this is only for the nerds
+
 #include <Servo.h>
+
+
 
 Servo leftWing;
 Servo rightWing;
