@@ -8,4 +8,5 @@
 
 WIRING :
 
+<img width="1052" height="695" alt="Screenshot 2026-09-23 215145" src="https://github.com/user-attachments/assets/7ed463e9-fd0f-4dbd-8286-f51c4071ad1e" />
 
