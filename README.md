@@ -153,8 +153,9 @@ Development photographs and screenshots are available in:
  Development Diary (Highly recommend checking it to understand the workflow)
 
 I maintained notes during the research and development process.
+this is like a design history file, research to modification to questions, everything is there.
 Scanned/photographed diary pages are available in:
-""Diary/"" (Diary/)
+"" Diary/ "" (Diary/)
 
 The diary documents the development process, research, decisions, experiments, and iterations behind the project.
 
