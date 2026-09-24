@@ -98,7 +98,6 @@ The complete wiring diagram is available here:
 
 For detailed wiring and connection information, see:
 - ""Electronics/wiring_notes.md"" (Electronics/wiring_notes.md)
-- ""Electronics/receiver_setup.md"" (Electronics/receiver_setup.md)
 
 ---
 
@@ -108,10 +107,7 @@ The project contains the editable CAD source files, exported STEP files, and STL
 
 CAD files
 
-- "CAD/source/" — editable CAD files
-- "CAD/STEP/" — STEP exports
 - "CAD/STL/" — printable STL files
-
 
 ---
 
@@ -120,12 +116,11 @@ Firmware
 The firmware is written for the Arduino pro micro.
 
 Main firmware:
-""Firmware/bionic_butterfly.ino"" (Firmware/bionic_butterfly.ino)
 The firmware controls the two servos and implements the wing-motion algorithms.
 
 Current motion modes include:
 - Sine wave
-- Triangular wave
+- Triangular wave (to be done)
 
 The firmware is intentionally documented so that parameters such as amplitude, frequency, center position, and control response can be modified.
 
@@ -164,27 +159,6 @@ Scanned/photographed diary pages are available in:
 The diary documents the development process, research, decisions, experiments, and iterations behind the project.
 
 ---
-
-Project Photos
-
-CAD
-
-"CAD Assembly" (Images/CAD/Petal's body.png)
-
-Electronics
-
-"Electronics" (Images/electronics/electronics.png)
-
-Prototype ( to be done )
-
-"Prototype" (Images/prototype/prototype.png)
-
-Final Build ( to be done )
-
-"Final Butterfly" (Images/final/final_butterfly.png)
-
----
-
 
 ---
 
