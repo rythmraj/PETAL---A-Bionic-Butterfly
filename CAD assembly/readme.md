@@ -7,7 +7,9 @@ Due to my limited experience with CAD assembly design and the time constraints o
 For reference and demonstration purposes, I have used an existing CAD assembly found on GrabCAD, originally created and published by its respective author.
 
 Original Assembly: https://grabcad.com/library/bionic-butterfly-1
+
 Original Author: Sarin George Simon
+
 Source: GrabCAD
 
 I would like to give full credit to the original creator for the assembly design. I do not claim ownership or original authorship of this assembly.
