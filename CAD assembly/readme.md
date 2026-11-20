@@ -12,6 +12,12 @@ Original Author: Sarin George Simon
 
 Source: GrabCAD
 
+Also the servo motor and the servo motor arm is also not mine but taken from grabcad, I do not take credit for those, the links are below:
+
+ptk servo motor - https://grabcad.com/library/ptk-7465-servo-1
+servohorn or servo motor arm - https://grabcad.com/library/kst-0525-20-alu-servoarm-20-mm-25t-5-servo-horn-1
+
+
 I would like to give full credit to the original creator for the assembly design. I do not claim ownership or original authorship of this assembly.
 
 
